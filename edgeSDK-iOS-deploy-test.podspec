@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "edgeSDK-iOS-deploy-test"
-  s.version      = "0.0.25"
+  s.version      = "0.0.26"
   s.summary      = "Deploy testing: mimik Edge empowers developers to discover, connect, and communicate with various heterogeneous devices. Production backend."
 
   s.description  = <<-DESC
